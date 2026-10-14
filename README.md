@@ -11,7 +11,7 @@ Powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](https://ffmpe
 [![Rust](https://img.shields.io/badge/built_with-Rust_2024-22c55e.svg?style=flat-square)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
-[**Download for Windows**](https://github.com/stsuprim/inat-clipper/releases/latest) · Single file · Zero configuration
+[**Download for Windows**](https://github.com/nehanlol/inat-clipper-refined/releases/download/v1.0.0/INAT_Setup_v1.0.0.exe) · Single file · Zero configuration
 
 </div>
 
@@ -30,7 +30,7 @@ Powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](https://ffmpe
 
 ## Download
 
-Grab the latest build from [**Releases**](https://github.com/stsuprim/inat-clipper/releases/latest):
+Grab the latest build from [**Releases**](https://github.com/nehanlol/inat-clipper-refined/releases/tag/v1.0.0):
 
 | File | Type | Description |
 | :--- | :--- | :--- |
